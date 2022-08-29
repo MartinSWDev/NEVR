@@ -12,3 +12,13 @@
 ## Stretch Goals ## 
 - [ ] Host this page
 - [ ] Allow sales of books (affiliate links)
+
+
+## SO FAR ##
+1. Get XAMPP 
+2. Get Composer 
+3. Get XDebug 
+4. Set up XDebug, Composer in PHPStorm 
+5. Get MySQL Workbench 
+6. Create Database
+7. 
